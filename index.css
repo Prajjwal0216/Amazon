@@ -533,7 +533,7 @@ li{
 
 
 
-@media (max-width: 600px) {
+/* @media (max-width: 600px) {
     .nav {
         flex-wrap: wrap;
         justify-content: space-between;
@@ -615,3 +615,4 @@ li{
         width: 23%;
     }
 }
+ */
